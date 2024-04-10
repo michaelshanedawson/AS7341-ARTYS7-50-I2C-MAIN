@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="AS7341_ilmb_v10_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_ilmb_v10_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_microblaze_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_microblaze_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_ilmb_bram_if_cntlr_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_ilmb_bram_if_cntlr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_dlmb_bram_if_cntlr_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_dlmb_bram_if_cntlr_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="AS7341_ilmb_bram_if_cntlr_0_synth_1"/>
+	</Run>
+	<Run Id="AS7341_mdm_1_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_mdm_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_axi_smc_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_axi_smc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_lmb_bram_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_lmb_bram_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_rst_mig_7series_0_81M_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_rst_mig_7series_0_81M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_rst_clk_wiz_0_100M_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_rst_clk_wiz_0_100M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_axi_uartlite_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_axi_uartlite_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_axi_quad_spi_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_axi_quad_spi_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_dlmb_v10_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_dlmb_v10_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="AS7341_ilmb_v10_0_synth_1"/>
+	</Run>
+	<Run Id="AS7341_clk_wiz_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_mig_7series_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_mig_7series_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_axi_gpio_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_axi_gpio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="AS7341_axi_iic_0_0_synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_axi_iic_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="AS7341_ilmb_v10_0_synth_1"/>
+		<Parent Id="AS7341_microblaze_0_0_synth_1"/>
+		<Parent Id="AS7341_ilmb_bram_if_cntlr_0_synth_1"/>
+		<Parent Id="AS7341_dlmb_bram_if_cntlr_0_synth_1"/>
+		<Parent Id="AS7341_mdm_1_0_synth_1"/>
+		<Parent Id="AS7341_axi_smc_0_synth_1"/>
+		<Parent Id="AS7341_lmb_bram_0_synth_1"/>
+		<Parent Id="AS7341_rst_mig_7series_0_81M_0_synth_1"/>
+		<Parent Id="AS7341_rst_clk_wiz_0_100M_0_synth_1"/>
+		<Parent Id="AS7341_axi_uartlite_0_0_synth_1"/>
+		<Parent Id="AS7341_axi_quad_spi_0_0_synth_1"/>
+		<Parent Id="AS7341_dlmb_v10_0_synth_1"/>
+		<Parent Id="AS7341_clk_wiz_0_0_synth_1"/>
+		<Parent Id="AS7341_mig_7series_0_0_synth_1"/>
+		<Parent Id="AS7341_axi_gpio_0_0_synth_1"/>
+		<Parent Id="AS7341_axi_iic_0_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+		<Parameter Name="general.shortenLongPath" Val="true" Type="bool"/>
+	</Parameters>
+	<ProductInfo Name="vivado"/>
+</Runs>
+

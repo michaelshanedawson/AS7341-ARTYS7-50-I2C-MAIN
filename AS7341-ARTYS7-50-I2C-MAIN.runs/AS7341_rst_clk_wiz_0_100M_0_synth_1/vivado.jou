@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Mon Apr  8 12:27:16 2024
+# Process ID: 38152
+# Current directory: C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_rst_clk_wiz_0_100M_0_synth_1
+# Command line: vivado.exe -log AS7341_rst_clk_wiz_0_100M_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AS7341_rst_clk_wiz_0_100M_0.tcl
+# Log file: C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_rst_clk_wiz_0_100M_0_synth_1/AS7341_rst_clk_wiz_0_100M_0.vds
+# Journal file: C:/Users/cloud/OneDrive/_Arty_Spartan_7/Projects/AS7341-ARTYS7-50-I2C-MAIN/AS7341-ARTYS7-50-I2C-MAIN.runs/AS7341_rst_clk_wiz_0_100M_0_synth_1\vivado.jou
+# Running On: DarkStar, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 24, Host memory: 68447 MB
+#-----------------------------------------------------------
+source AS7341_rst_clk_wiz_0_100M_0.tcl -notrace

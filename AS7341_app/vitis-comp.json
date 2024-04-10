@@ -1,0 +1,18 @@
+{
+  "name": "AS7341_app",
+  "type": "HOST",
+  "platform": "C:\\Users\\cloud\\OneDrive\\_Arty_Spartan_7\\Projects\\AS7341-ARTYS7-50-I2C-MAIN\\AS7341_plat\\export\\AS7341_plat\\AS7341_plat.xpfm",
+  "domain": "standalone_microblaze_0",
+  "cpuInstance": "microblaze_0",
+  "cpuType": "microblaze",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_0",
+  "applicationFlow": "EMBEDDED",
+  "previousBuildStatusMap": {
+    "hw": "SUCCESS"
+  }
+}
